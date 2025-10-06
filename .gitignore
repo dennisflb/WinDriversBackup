@@ -1,0 +1,43 @@
+# C++Builder build output
+*.exe
+*.obj
+*.dcu
+*.dcp
+*.bpl
+*.tds
+*.map
+*.ilc
+*.ild
+*.ilf
+*.ils
+*.lib
+*.pch
+*.~*
+*.stat
+
+# IDE and backup files
+*.dsk
+*.local
+*.identcache
+*.tvsconfig
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.log
+
+# C++Builder generated folders
+Win32/
+Win64/
+__history/
+__recovery/
+__debug/
+__release/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
