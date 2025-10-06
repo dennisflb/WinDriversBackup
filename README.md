@@ -11,7 +11,7 @@ A Windows utility to export and back up all installed drivers using DISM, with a
 
 ## Installation
 
-1. Download the latest release from [Releases](https://github.com/yourusername/WinDriversBackup/releases).
+1. Download the latest release from [Releases](https://github.com/dennisflb/WinDriversBackup/releases).
 2. Extract and run `WinDriversBackup.exe`.
 
 ## Usage
@@ -30,7 +30,7 @@ A Windows utility to export and back up all installed drivers using DISM, with a
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](MITLicense.png) for details.
+This project is licensed under the MIT License. See [LICENSE](MITLicense.txt) for details.
 
 ## Contact
 
