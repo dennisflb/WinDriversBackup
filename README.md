@@ -30,7 +30,7 @@ A Windows utility to export and back up all installed drivers using DISM, with a
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](MITLicense.txt) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE.txt) for details.
 
 ## Contact
 
